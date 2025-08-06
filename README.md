@@ -64,4 +64,4 @@ Desenvolver modelos preditivos capazes de identificar pacientes com maior risco 
 
 ## Créditos
 
-Projeto desenvolvido por Rônero Gomes Cavalcante Júnior e Jean Felipe Duarte
+Projeto desenvolvido por Rônero Gomes Cavalcante Júnior e Jean Felipe Duarte Tenório
